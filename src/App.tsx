@@ -20,7 +20,7 @@ function App() {
       TRANSPARENT: true,
       BLOOM: false,
       INTERVAL: 9000,
-      SPLAT_RADIUS: 0.05,
+      SPLAT_RADIUS: 0.15,
       SPLAT_COUNT: (Math.random() * 0.01) + 5,
     })
   }, [])
